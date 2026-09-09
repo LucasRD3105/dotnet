@@ -1,0 +1,15 @@
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\MeuApp\bin\Debug\net10.0\MeuApp.exe
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\MeuApp\bin\Debug\net10.0\MeuApp.deps.json
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\MeuApp\bin\Debug\net10.0\MeuApp.runtimeconfig.json
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\MeuApp\bin\Debug\net10.0\MeuApp.dll
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\MeuApp\bin\Debug\net10.0\MeuApp.pdb
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\MeuApp\obj\Debug\net10.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\MeuApp\obj\Debug\net10.0\MeuApp.AssemblyInfoInputs.cache
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\MeuApp\obj\Debug\net10.0\MeuApp.AssemblyInfo.cs
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\MeuApp\obj\Debug\net10.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\MeuApp\obj\Debug\net10.0\MeuApp.sourcelink.json
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\MeuApp\obj\Debug\net10.0\MeuApp.dll
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\MeuApp\obj\Debug\net10.0\refint\MeuApp.dll
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\MeuApp\obj\Debug\net10.0\MeuApp.pdb
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\MeuApp\obj\Debug\net10.0\MeuApp.genruntimeconfig.cache
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\MeuApp\obj\Debug\net10.0\ref\MeuApp.dll
