@@ -1,0 +1,15 @@
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\Teste\bin\Debug\net10.0\Teste.exe
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\Teste\bin\Debug\net10.0\Teste.deps.json
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\Teste\bin\Debug\net10.0\Teste.runtimeconfig.json
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\Teste\bin\Debug\net10.0\Teste.dll
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\Teste\bin\Debug\net10.0\Teste.pdb
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\Teste\obj\Debug\net10.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\Teste\obj\Debug\net10.0\Teste.AssemblyInfoInputs.cache
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\Teste\obj\Debug\net10.0\Teste.AssemblyInfo.cs
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\Teste\obj\Debug\net10.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\Teste\obj\Debug\net10.0\Teste.sourcelink.json
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\Teste\obj\Debug\net10.0\Teste.dll
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\Teste\obj\Debug\net10.0\refint\Teste.dll
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\Teste\obj\Debug\net10.0\Teste.pdb
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\Teste\obj\Debug\net10.0\Teste.genruntimeconfig.cache
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\Teste\obj\Debug\net10.0\ref\Teste.dll

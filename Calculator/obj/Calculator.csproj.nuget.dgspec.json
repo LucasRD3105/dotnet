@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\Teste\\Teste.csproj": {}
+    "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\Teste\\Teste.csproj": {
+    "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\Teste\\Teste.csproj",
-        "projectName": "Teste",
-        "projectPath": "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\Teste\\Teste.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\Calculator\\Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Lucas Rocha Dantas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\Teste\\obj\\",
+        "outputPath": "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

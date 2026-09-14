@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\NovoTeste\\NovoTeste.csproj": {}
+    "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\NovoTeste\\NovoTeste.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\NovoTeste\\NovoTeste.csproj": {
+    "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\NovoTeste\\NovoTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\NovoTeste\\NovoTeste.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\NovoTeste\\NovoTeste.csproj",
         "projectName": "NovoTeste",
-        "projectPath": "c:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\NovoTeste\\NovoTeste.csproj",
+        "projectPath": "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\NovoTeste\\NovoTeste.csproj",
         "packagesPath": "C:\\Users\\Lucas Rocha Dantas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\NovoTeste\\obj\\",
+        "outputPath": "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\NovoTeste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
