@@ -1,0 +1,15 @@
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\TextEditor\bin\Debug\net10.0\TextEditor.exe
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\TextEditor\bin\Debug\net10.0\TextEditor.deps.json
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\TextEditor\bin\Debug\net10.0\TextEditor.runtimeconfig.json
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\TextEditor\bin\Debug\net10.0\TextEditor.dll
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\TextEditor\bin\Debug\net10.0\TextEditor.pdb
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\TextEditor\obj\Debug\net10.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\TextEditor\obj\Debug\net10.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\TextEditor\obj\Debug\net10.0\TextEditor.AssemblyInfo.cs
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\TextEditor\obj\Debug\net10.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\TextEditor\obj\Debug\net10.0\TextEditor.sourcelink.json
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\TextEditor\obj\Debug\net10.0\TextEditor.dll
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\TextEditor\obj\Debug\net10.0\refint\TextEditor.dll
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\TextEditor\obj\Debug\net10.0\TextEditor.pdb
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\TextEditor\obj\Debug\net10.0\TextEditor.genruntimeconfig.cache
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\TextEditor\obj\Debug\net10.0\ref\TextEditor.dll
