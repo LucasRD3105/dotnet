@@ -1,0 +1,15 @@
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\EditorHtml\bin\Debug\net10.0\EditorHtml.exe
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\EditorHtml\bin\Debug\net10.0\EditorHtml.deps.json
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\EditorHtml\bin\Debug\net10.0\EditorHtml.runtimeconfig.json
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\EditorHtml\bin\Debug\net10.0\EditorHtml.dll
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\EditorHtml\bin\Debug\net10.0\EditorHtml.pdb
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\EditorHtml\obj\Debug\net10.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\EditorHtml\obj\Debug\net10.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\EditorHtml\obj\Debug\net10.0\EditorHtml.AssemblyInfo.cs
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\EditorHtml\obj\Debug\net10.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\EditorHtml\obj\Debug\net10.0\EditorHtml.sourcelink.json
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\EditorHtml\obj\Debug\net10.0\EditorHtml.dll
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\EditorHtml\obj\Debug\net10.0\refint\EditorHtml.dll
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\EditorHtml\obj\Debug\net10.0\EditorHtml.pdb
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\EditorHtml\obj\Debug\net10.0\EditorHtml.genruntimeconfig.cache
+C:\Users\Lucas Rocha Dantas\Documents\Lucas Rocha Dantas\Vida profissional\Atento\EstudosDotNet\EditorHtml\obj\Debug\net10.0\ref\EditorHtml.dll
