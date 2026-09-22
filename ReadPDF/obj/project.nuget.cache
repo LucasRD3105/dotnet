@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "9X0s5YbubxE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\ReadPDF\\ReadPDF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas Rocha Dantas\\.nuget\\packages\\easy.automation\\1.0.0.12\\easy.automation.1.0.0.12.nupkg.sha512",
+    "C:\\Users\\Lucas Rocha Dantas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Lucas Rocha Dantas\\.nuget\\packages\\pdfbox\\1.1.1\\pdfbox.1.1.1.nupkg.sha512",
+    "C:\\Users\\Lucas Rocha Dantas\\.nuget\\packages\\selenium.phantomjs.webdriver\\2.1.1\\selenium.phantomjs.webdriver.2.1.1.nupkg.sha512",
+    "C:\\Users\\Lucas Rocha Dantas\\.nuget\\packages\\selenium.support\\3.8.0\\selenium.support.3.8.0.nupkg.sha512",
+    "C:\\Users\\Lucas Rocha Dantas\\.nuget\\packages\\selenium.webdriver\\3.8.0\\selenium.webdriver.3.8.0.nupkg.sha512",
+    "C:\\Users\\Lucas Rocha Dantas\\.nuget\\packages\\sikuli4net\\1.0.6\\sikuli4net.1.0.6.nupkg.sha512",
+    "C:\\Users\\Lucas Rocha Dantas\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Lucas Rocha Dantas\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

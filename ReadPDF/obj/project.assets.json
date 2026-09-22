@@ -1,0 +1,657 @@
+{
+  "version": 4,
+  "targets": {
+    "net48": {
+      "Easy.Automation/1.0.0.12": {
+        "type": "package",
+        "dependencies": {
+          "Pdfbox": "1.1.1",
+          "Selenium.PhantomJS.WebDriver": "2.1.1",
+          "Selenium.Support": "3.8.0",
+          "Sikuli4Net": "1.0.6",
+          "System.Drawing.Common": "4.7.0",
+          "Tesseract": "4.1.1"
+        },
+        "compile": {
+          "lib/net472/Easy.Automation.dll": {}
+        },
+        "runtime": {
+          "lib/net472/Easy.Automation.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Pdfbox/1.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/IKVM.OpenJDK.Beans.dll": {},
+          "lib/IKVM.OpenJDK.Charsets.dll": {},
+          "lib/IKVM.OpenJDK.Corba.dll": {},
+          "lib/IKVM.OpenJDK.Core.dll": {},
+          "lib/IKVM.OpenJDK.Jdbc.dll": {},
+          "lib/IKVM.OpenJDK.Management.dll": {},
+          "lib/IKVM.OpenJDK.Media.dll": {},
+          "lib/IKVM.OpenJDK.Misc.dll": {},
+          "lib/IKVM.OpenJDK.Naming.dll": {},
+          "lib/IKVM.OpenJDK.Remoting.dll": {},
+          "lib/IKVM.OpenJDK.Security.dll": {},
+          "lib/IKVM.OpenJDK.SwingAWT.dll": {},
+          "lib/IKVM.OpenJDK.Text.dll": {},
+          "lib/IKVM.OpenJDK.Util.dll": {},
+          "lib/IKVM.OpenJDK.XML.API.dll": {},
+          "lib/IKVM.Runtime.JNI.dll": {},
+          "lib/IKVM.Runtime.dll": {},
+          "lib/bcmail-jdk15-1.44.dll": {},
+          "lib/bcprov-jdk15-1.44.dll": {},
+          "lib/commons-logging.dll": {},
+          "lib/fontbox-1.8.2.dll": {},
+          "lib/icu4j-3.8.dll": {},
+          "lib/jempbox-1.8.2.dll": {},
+          "lib/junit.dll": {},
+          "lib/pdfbox-1.8.2.dll": {}
+        },
+        "runtime": {
+          "lib/IKVM.OpenJDK.Beans.dll": {},
+          "lib/IKVM.OpenJDK.Charsets.dll": {},
+          "lib/IKVM.OpenJDK.Corba.dll": {},
+          "lib/IKVM.OpenJDK.Core.dll": {},
+          "lib/IKVM.OpenJDK.Jdbc.dll": {},
+          "lib/IKVM.OpenJDK.Management.dll": {},
+          "lib/IKVM.OpenJDK.Media.dll": {},
+          "lib/IKVM.OpenJDK.Misc.dll": {},
+          "lib/IKVM.OpenJDK.Naming.dll": {},
+          "lib/IKVM.OpenJDK.Remoting.dll": {},
+          "lib/IKVM.OpenJDK.Security.dll": {},
+          "lib/IKVM.OpenJDK.SwingAWT.dll": {},
+          "lib/IKVM.OpenJDK.Text.dll": {},
+          "lib/IKVM.OpenJDK.Util.dll": {},
+          "lib/IKVM.OpenJDK.XML.API.dll": {},
+          "lib/IKVM.Runtime.JNI.dll": {},
+          "lib/IKVM.Runtime.dll": {},
+          "lib/bcmail-jdk15-1.44.dll": {},
+          "lib/bcprov-jdk15-1.44.dll": {},
+          "lib/commons-logging.dll": {},
+          "lib/fontbox-1.8.2.dll": {},
+          "lib/icu4j-3.8.dll": {},
+          "lib/jempbox-1.8.2.dll": {},
+          "lib/junit.dll": {},
+          "lib/pdfbox-1.8.2.dll": {}
+        }
+      },
+      "Selenium.PhantomJS.WebDriver/2.1.1": {
+        "type": "package",
+        "build": {
+          "build/Selenium.PhantomJS.WebDriver.targets": {}
+        }
+      },
+      "Selenium.Support/3.8.0": {
+        "type": "package",
+        "dependencies": {
+          "Selenium.WebDriver": "3.8.0"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing"
+        ],
+        "compile": {
+          "lib/net45/WebDriver.Support.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/WebDriver.Support.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Selenium.WebDriver/3.8.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing"
+        ],
+        "compile": {
+          "lib/net45/WebDriver.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/WebDriver.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Sikuli4Net/1.0.6": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "6.0.3"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing"
+        ],
+        "compile": {
+          "lib/Sikuli4Net.dll": {}
+        },
+        "runtime": {
+          "lib/Sikuli4Net.dll": {}
+        }
+      },
+      "System.Drawing.Common/4.7.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Drawing",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/System.Drawing.Common.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Drawing.Common.dll": {}
+        }
+      },
+      "Tesseract/4.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Tesseract.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Tesseract.dll": {}
+        },
+        "build": {
+          "build/Tesseract.targets": {}
+        }
+      }
+    },
+    "net48/win-x86": {
+      "Easy.Automation/1.0.0.12": {
+        "type": "package",
+        "dependencies": {
+          "Pdfbox": "1.1.1",
+          "Selenium.PhantomJS.WebDriver": "2.1.1",
+          "Selenium.Support": "3.8.0",
+          "Sikuli4Net": "1.0.6",
+          "System.Drawing.Common": "4.7.0",
+          "Tesseract": "4.1.1"
+        },
+        "compile": {
+          "lib/net472/Easy.Automation.dll": {}
+        },
+        "runtime": {
+          "lib/net472/Easy.Automation.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Pdfbox/1.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/IKVM.OpenJDK.Beans.dll": {},
+          "lib/IKVM.OpenJDK.Charsets.dll": {},
+          "lib/IKVM.OpenJDK.Corba.dll": {},
+          "lib/IKVM.OpenJDK.Core.dll": {},
+          "lib/IKVM.OpenJDK.Jdbc.dll": {},
+          "lib/IKVM.OpenJDK.Management.dll": {},
+          "lib/IKVM.OpenJDK.Media.dll": {},
+          "lib/IKVM.OpenJDK.Misc.dll": {},
+          "lib/IKVM.OpenJDK.Naming.dll": {},
+          "lib/IKVM.OpenJDK.Remoting.dll": {},
+          "lib/IKVM.OpenJDK.Security.dll": {},
+          "lib/IKVM.OpenJDK.SwingAWT.dll": {},
+          "lib/IKVM.OpenJDK.Text.dll": {},
+          "lib/IKVM.OpenJDK.Util.dll": {},
+          "lib/IKVM.OpenJDK.XML.API.dll": {},
+          "lib/IKVM.Runtime.JNI.dll": {},
+          "lib/IKVM.Runtime.dll": {},
+          "lib/bcmail-jdk15-1.44.dll": {},
+          "lib/bcprov-jdk15-1.44.dll": {},
+          "lib/commons-logging.dll": {},
+          "lib/fontbox-1.8.2.dll": {},
+          "lib/icu4j-3.8.dll": {},
+          "lib/jempbox-1.8.2.dll": {},
+          "lib/junit.dll": {},
+          "lib/pdfbox-1.8.2.dll": {}
+        },
+        "runtime": {
+          "lib/IKVM.OpenJDK.Beans.dll": {},
+          "lib/IKVM.OpenJDK.Charsets.dll": {},
+          "lib/IKVM.OpenJDK.Corba.dll": {},
+          "lib/IKVM.OpenJDK.Core.dll": {},
+          "lib/IKVM.OpenJDK.Jdbc.dll": {},
+          "lib/IKVM.OpenJDK.Management.dll": {},
+          "lib/IKVM.OpenJDK.Media.dll": {},
+          "lib/IKVM.OpenJDK.Misc.dll": {},
+          "lib/IKVM.OpenJDK.Naming.dll": {},
+          "lib/IKVM.OpenJDK.Remoting.dll": {},
+          "lib/IKVM.OpenJDK.Security.dll": {},
+          "lib/IKVM.OpenJDK.SwingAWT.dll": {},
+          "lib/IKVM.OpenJDK.Text.dll": {},
+          "lib/IKVM.OpenJDK.Util.dll": {},
+          "lib/IKVM.OpenJDK.XML.API.dll": {},
+          "lib/IKVM.Runtime.JNI.dll": {},
+          "lib/IKVM.Runtime.dll": {},
+          "lib/bcmail-jdk15-1.44.dll": {},
+          "lib/bcprov-jdk15-1.44.dll": {},
+          "lib/commons-logging.dll": {},
+          "lib/fontbox-1.8.2.dll": {},
+          "lib/icu4j-3.8.dll": {},
+          "lib/jempbox-1.8.2.dll": {},
+          "lib/junit.dll": {},
+          "lib/pdfbox-1.8.2.dll": {}
+        }
+      },
+      "Selenium.PhantomJS.WebDriver/2.1.1": {
+        "type": "package",
+        "build": {
+          "build/Selenium.PhantomJS.WebDriver.targets": {}
+        }
+      },
+      "Selenium.Support/3.8.0": {
+        "type": "package",
+        "dependencies": {
+          "Selenium.WebDriver": "3.8.0"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing"
+        ],
+        "compile": {
+          "lib/net45/WebDriver.Support.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/WebDriver.Support.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Selenium.WebDriver/3.8.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing"
+        ],
+        "compile": {
+          "lib/net45/WebDriver.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/WebDriver.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Sikuli4Net/1.0.6": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "6.0.3"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing"
+        ],
+        "compile": {
+          "lib/Sikuli4Net.dll": {}
+        },
+        "runtime": {
+          "lib/Sikuli4Net.dll": {}
+        }
+      },
+      "System.Drawing.Common/4.7.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Drawing",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/System.Drawing.Common.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Drawing.Common.dll": {}
+        }
+      },
+      "Tesseract/4.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Tesseract.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Tesseract.dll": {}
+        },
+        "build": {
+          "build/Tesseract.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Easy.Automation/1.0.0.12": {
+      "sha512": "WEDUI6OdelNcJd1OSnPoHAvoLJarWBTRzjhJwUja7dEdAlQVOxvtz3ljMNBFgSSfpfcpPIwzYhtnQ15Tm2aJEQ==",
+      "type": "package",
+      "path": "easy.automation/1.0.0.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "easy.automation.1.0.0.12.nupkg.sha512",
+        "easy.automation.nuspec",
+        "lib/net472/Easy.Automation.dll"
+      ]
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "Pdfbox/1.1.1": {
+      "sha512": "nYQZCA+5qtJxNDgDiOTRTkqd2ThVT/o5ck6RZ0yLYit4hoB/Nmc5GT74vnHXWrMvYi+OE3i5HyjiLDbe0mzW1w==",
+      "type": "package",
+      "path": "pdfbox/1.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "PdfBox/Decrypt.exe",
+        "PdfBox/Encrypt.exe",
+        "PdfBox/ExportFDF.exe",
+        "PdfBox/ExportXFDF.exe",
+        "PdfBox/ExtractText.exe",
+        "PdfBox/ICSharpCode.SharpZipLib.dll",
+        "PdfBox/IKVM.AWT.WinForms.dll",
+        "PdfBox/IKVM.OpenJDK.Tools.dll",
+        "PdfBox/IKVM.OpenJDK.XML.Bind.dll",
+        "PdfBox/IKVM.OpenJDK.XML.Crypto.dll",
+        "PdfBox/IKVM.OpenJDK.XML.Parse.dll",
+        "PdfBox/IKVM.OpenJDK.XML.Transform.dll",
+        "PdfBox/IKVM.OpenJDK.XML.WebServices.dll",
+        "PdfBox/IKVM.OpenJDK.XML.XPath.dll",
+        "PdfBox/IKVM.Reflection.dll",
+        "PdfBox/ImportFDF.exe",
+        "PdfBox/ImportXFDF.exe",
+        "PdfBox/OverlayPDF.exe",
+        "PdfBox/PDFDebugger.exe",
+        "PdfBox/PDFMerger.exe",
+        "PdfBox/PDFReader.exe",
+        "PdfBox/PDFSplit.exe",
+        "PdfBox/WriteDecodedDoc.exe",
+        "PdfBox/ikvm-native-win32-x64.dll",
+        "PdfBox/ikvm-native-win32-x86.dll",
+        "PdfBox/ikvm.exe",
+        "PdfBox/ikvm.exe.config",
+        "PdfBox/ikvmc.exe",
+        "PdfBox/ikvmc.exe.config",
+        "PdfBox/ikvmstub.exe",
+        "PdfBox/ikvmstub.exe.config",
+        "lib/IKVM.OpenJDK.Beans.dll",
+        "lib/IKVM.OpenJDK.Charsets.dll",
+        "lib/IKVM.OpenJDK.Corba.dll",
+        "lib/IKVM.OpenJDK.Core.dll",
+        "lib/IKVM.OpenJDK.Jdbc.dll",
+        "lib/IKVM.OpenJDK.Management.dll",
+        "lib/IKVM.OpenJDK.Media.dll",
+        "lib/IKVM.OpenJDK.Misc.dll",
+        "lib/IKVM.OpenJDK.Naming.dll",
+        "lib/IKVM.OpenJDK.Remoting.dll",
+        "lib/IKVM.OpenJDK.Security.dll",
+        "lib/IKVM.OpenJDK.SwingAWT.dll",
+        "lib/IKVM.OpenJDK.Text.dll",
+        "lib/IKVM.OpenJDK.Util.dll",
+        "lib/IKVM.OpenJDK.XML.API.dll",
+        "lib/IKVM.Runtime.JNI.dll",
+        "lib/IKVM.Runtime.dll",
+        "lib/bcmail-jdk15-1.44.dll",
+        "lib/bcprov-jdk15-1.44.dll",
+        "lib/commons-logging.dll",
+        "lib/fontbox-1.8.2.dll",
+        "lib/icu4j-3.8.dll",
+        "lib/jempbox-1.8.2.dll",
+        "lib/junit.dll",
+        "lib/pdfbox-1.8.2.dll",
+        "pdfbox.1.1.1.nupkg.sha512",
+        "pdfbox.nuspec"
+      ]
+    },
+    "Selenium.PhantomJS.WebDriver/2.1.1": {
+      "sha512": "RkbBQqVh47WZWQjwl5iM/FFzY6ST89w9Pts31Vft36H/10gCLipRoSsM/ewkSm8EUWibagOVyAOQDqsL5RSzhw==",
+      "type": "package",
+      "path": "selenium.phantomjs.webdriver/2.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Selenium.PhantomJS.WebDriver.targets",
+        "driver/phantomjs.exe",
+        "selenium.phantomjs.webdriver.2.1.1.nupkg.sha512",
+        "selenium.phantomjs.webdriver.nuspec"
+      ]
+    },
+    "Selenium.Support/3.8.0": {
+      "sha512": "dUjtHRqHt/JLcNodk/IvydquP15m534BMT4Zcq2BM9XYI4XCKX9iJR2qFWAHdv0IYUicZq+w5EsMzceyAe3FUw==",
+      "type": "package",
+      "path": "selenium.support/3.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/WebDriver.Support.dll",
+        "lib/net35/WebDriver.Support.xml",
+        "lib/net40/WebDriver.Support.dll",
+        "lib/net40/WebDriver.Support.xml",
+        "lib/net45/WebDriver.Support.dll",
+        "lib/net45/WebDriver.Support.xml",
+        "lib/netstandard2.0/WebDriver.Support.dll",
+        "lib/netstandard2.0/WebDriver.Support.xml",
+        "selenium.support.3.8.0.nupkg.sha512",
+        "selenium.support.nuspec"
+      ]
+    },
+    "Selenium.WebDriver/3.8.0": {
+      "sha512": "7CUnhcDpyUwY0fs/clW/avjJ8HSsDD3ae4JccC7Lz9oundxkWXLsH9jM0FfGkozj1rNnfYVYObXncQAQxXa4Qw==",
+      "type": "package",
+      "path": "selenium.webdriver/3.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/WebDriver.dll",
+        "lib/net35/WebDriver.xml",
+        "lib/net40/WebDriver.dll",
+        "lib/net40/WebDriver.xml",
+        "lib/net45/WebDriver.dll",
+        "lib/net45/WebDriver.xml",
+        "lib/netstandard2.0/WebDriver.dll",
+        "lib/netstandard2.0/WebDriver.xml",
+        "selenium.webdriver.3.8.0.nupkg.sha512",
+        "selenium.webdriver.nuspec"
+      ]
+    },
+    "Sikuli4Net/1.0.6": {
+      "sha512": "vJJyRlq2CWwYRJA4SuDUGohX5rEtZi6ndsT6BSI5nMQvtMC+5CKvsOwoHPhtBMiC5s3RRZYepSHD/4ErZ33+og==",
+      "type": "package",
+      "path": "sikuli4net/1.0.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/Sikuli4Net.dll",
+        "sikuli4net.1.0.6.nupkg.sha512",
+        "sikuli4net.nuspec"
+      ]
+    },
+    "System.Drawing.Common/4.7.0": {
+      "sha512": "v+XbyYHaZjDfn0ENmJEV1VYLgGgCTx1gnfOBcppowbpOAriglYgGCvFCPr2EEZyBvXlpxbEsTwkOlInl107ahA==",
+      "type": "package",
+      "path": "system.drawing.common/4.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net461/System.Drawing.Common.dll",
+        "lib/netstandard2.0/System.Drawing.Common.dll",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net461/System.Drawing.Common.dll",
+        "ref/netcoreapp3.0/System.Drawing.Common.dll",
+        "ref/netcoreapp3.0/System.Drawing.Common.xml",
+        "ref/netstandard2.0/System.Drawing.Common.dll",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll",
+        "runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll",
+        "runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.xml",
+        "runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll",
+        "runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll",
+        "runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.xml",
+        "system.drawing.common.4.7.0.nupkg.sha512",
+        "system.drawing.common.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Tesseract/4.1.1": {
+      "sha512": "abufaW6N3P7TGJPI3RNTMSzS1ycnE1w6aW/Q+Hco/wCgm+bXUgR87JsGELvTcm2FISXGlQgs+PvYMVo9SlcPfg==",
+      "type": "package",
+      "path": "tesseract/4.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Tesseract.targets",
+        "lib/net40/Tesseract.dll",
+        "lib/net45/Tesseract.dll",
+        "lib/netstandard2.0/Tesseract.dll",
+        "lib/netstandard2.0/Tesseract.xml",
+        "tesseract.4.1.1.nupkg.sha512",
+        "tesseract.nuspec",
+        "x64/leptonica-1.80.0.dll",
+        "x64/tesseract41.dll",
+        "x86/leptonica-1.80.0.dll",
+        "x86/tesseract41.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net48": [
+      "Easy.Automation >= 1.0.0.12",
+      "Newtonsoft.Json >= 13.0.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Lucas Rocha Dantas\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "c:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\ReadPDF\\ReadPDF.csproj",
+      "projectName": "ReadPDF",
+      "projectPath": "c:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\ReadPDF\\ReadPDF.csproj",
+      "packagesPath": "C:\\Users\\Lucas Rocha Dantas\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\ReadPDF\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Lucas Rocha Dantas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "framework": "net48",
+          "targetAlias": "net48",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.400"
+    },
+    "frameworks": {
+      "net48": {
+        "framework": "net48",
+        "targetAlias": "net48",
+        "dependencies": {
+          "Easy.Automation": {
+            "target": "Package",
+            "version": "[1.0.0.12, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
