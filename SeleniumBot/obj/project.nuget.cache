@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0eiBc6msjB4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas Rocha Dantas\\Documents\\Lucas Rocha Dantas\\Vida profissional\\Atento\\EstudosDotNet\\SeleniumBot\\SeleniumBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas Rocha Dantas\\.nuget\\packages\\selenium.webdriver\\4.49.0\\selenium.webdriver.4.49.0.nupkg.sha512"
+  ],
+  "logs": []
+}

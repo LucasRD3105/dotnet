@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SeleniumBot/1.0.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.49.0"
+        },
+        "runtime": {
+          "SeleniumBot.dll": {}
+        }
+      },
+      "Selenium.WebDriver/4.49.0": {
+        "runtime": {
+          "lib/net8.0/Selenium.WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-arm64/native/selenium-manager": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/selenium-manager": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx/native/selenium-manager": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/native/selenium-manager.exe": {
+            "rid": "win",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SeleniumBot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Selenium.WebDriver/4.49.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WsqfFJ4mvOeUoI0mD1208tc9SgmjI0c90RdpWXqnosksCwo0+dQWf/3LqeewDDAVzpbIbtfhEetdpBhjDpkdzg==",
+      "path": "selenium.webdriver/4.49.0",
+      "hashPath": "selenium.webdriver.4.49.0.nupkg.sha512"
+    }
+  }
+}
